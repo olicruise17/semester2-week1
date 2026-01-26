@@ -12,3 +12,4 @@
 
 -- write your sql code here
 
+SELECT Country FROM countries;
